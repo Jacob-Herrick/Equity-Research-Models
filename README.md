@@ -1,1 +1,3 @@
-This file is comprised of financial models of public companies. The models are in various states and many still unfinished. Follow along as I add more. Shoot me a message if you have insights or comments, always excited to talk to others about equity analysis.
+This repository contains financial models of public companies I am interested in. Many are still works in progress — follow along as I expand the collection.
+
+Have insights or feedback? Feel free to reach out! Always happy to discuss equity research with analysts.
