@@ -1,0 +1,1 @@
+This file is comprised of financial models of public companies. The models are in various states and many still unfinished. Follow along as I add more. Shoot me a message if you have insights or comments, always excited to talk to others about equity analysis.
